@@ -1,9 +1,8 @@
-// mostra il popup dopo 2k millisecondi (2secondi)
 setTimeout(
     function() {
     	console.log("run");
       document.getElementById('pop').style.display="block"	;
-   	}, 2000);
+   	}, 1000);
 
 
 // chiudi il pupup quando clicchi sulla X
