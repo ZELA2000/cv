@@ -115,6 +115,7 @@ table{
   height: 100vh;
 	background: rgba(0,0,0,0.7); /* colore sfondo e opcità */
 	text-align: center;
+  align-items: center;
 	display: none; /*cambiaremo in display: none*/
 }
 
